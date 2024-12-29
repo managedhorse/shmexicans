@@ -20,3 +20,11 @@ yarn-error.log*
 # IDE/editor directories
 .vscode/
 .idea/
+
+# Ignore package-lock.json in subdirectories
+api/package-lock.json
+client/package-lock.json
+
+# Ignore node_modules in subdirectories
+api/node_modules/
+client/node_modules/
