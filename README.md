@@ -26,20 +26,48 @@ shmexicans
 │  │  ├─ exclude
 │  │  └─ refs
 │  ├─ objects
+│  │  ├─ 02
+│  │  │  └─ bd27a1349f6f540b9f2f0cdaa8acf95c0d0182
+│  │  ├─ 03
+│  │  │  └─ fd58a507d223d10f82621361b19735f08860f1
+│  │  ├─ 04
+│  │  │  └─ c9a7369b207719a7af6880e0b9282ebca9c959
+│  │  ├─ 07
+│  │  │  └─ 92b2b97de3524b2d032bf8fa5ffe8a55f9d151
+│  │  ├─ 10
+│  │  │  └─ 6168bd5f802ab093ddc459b861e918d8b67f0f
+│  │  ├─ 13
+│  │  │  └─ 6be6dc602a66fdd1af39409f68e86fa92d9bb5
+│  │  ├─ 18
+│  │  │  └─ 6639ef81d073562cfc7238af4d7b646c520454
 │  │  ├─ 39
 │  │  │  └─ f3688feebd533f9c86532c1e8cf9e0f004ea7f
 │  │  ├─ 62
+│  │  │  ├─ 6ca04015195b336b43cafb33f45e9c3e6dc785
 │  │  │  └─ 841594f7aae721585cc10a7a68a7be5f5c0243
+│  │  ├─ 66
+│  │  │  └─ 51dee316100876373099dcdc0364a048d19a98
+│  │  ├─ 6a
+│  │  │  └─ aa714500489353b777e9066d7f0e95c3ac2667
+│  │  ├─ 79
+│  │  │  └─ 2b83d2f9a51bbb91b9be92e073b6aa6dd9f25f
+│  │  ├─ 93
+│  │  │  └─ 0e1ca8a3df4e5d64108107a16c17984e32b973
 │  │  ├─ b5
 │  │  │  └─ 02d330a269c89891d74e40db778db2ac7632e9
 │  │  ├─ bc
 │  │  │  └─ b5784787a0df55f9771386126d0d42259901cb
+│  │  ├─ ca
+│  │  │  └─ 9bada7f730cc9035175fdb6372a4b604bfecf0
 │  │  ├─ d5
 │  │  │  └─ 0a19d5e449cf7b2f1996bc629119e7b72432cf
 │  │  ├─ dc
+│  │  │  ├─ 19d99a6a57ce0ece069c64a0650974fff5eca8
 │  │  │  └─ 31fa4b7f955b3deed84dbddf890d8dce2f6112
 │  │  ├─ f7
 │  │  │  └─ c6c3ff5ff66e7a8f588436d7b17c7daa00dd21
+│  │  ├─ f9
+│  │  │  └─ 535180151c310e88a6cbfa063fe28544cc0262
 │  │  ├─ fb
 │  │  │  └─ 441791848fd1023834cb0e70e62e1a50585be8
 │  │  ├─ info
@@ -63,16 +91,15 @@ shmexicans
 │  └─ deps
 │     ├─ _metadata.json
 │     └─ package.json
+├─ README.md
 ├─ api
 │  ├─ getPreparedMessage.js
-│  ├─ package-lock.json
 │  └─ package.json
 ├─ client
 │  ├─ .gitignore
 │  ├─ README.md
 │  ├─ eslint.config.js
 │  ├─ index.html
-│  ├─ package-lock.json
 │  ├─ package.json
 │  ├─ postcss.config.js
 │  ├─ public
@@ -277,6 +304,8 @@ shmexicans
 │  │     └─ UserPro.jsx
 │  ├─ tailwind.config.js
 │  └─ vite.config.js
+├─ package-lock.json
+├─ package.json
 └─ server.cjs
 
 ```
