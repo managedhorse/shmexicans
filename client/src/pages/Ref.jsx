@@ -55,7 +55,7 @@ const Ref = () => {
 
     try {
       // Request prepared message ID from the server
-      const response = await fetch('http://cfdcfdcfd.cfd:5001/api/getPreparedMessage', { // Ensure the correct server URL
+      const response = await fetch('https://shmexicans.vercel.app:5001/api/getPreparedMessage', { // Ensure the correct server URL
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
